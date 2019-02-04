@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'SquareFont';
+    src: url('SquareFont.eot');
+    src: url('SquareFont.eot?#iefix') format('embedded-opentype'),
+        url('SquareFont.woff2') format('woff2'),
+        url('SquareFont.woff') format('woff'),
+        url('SquareFont.ttf') format('truetype'),
+        url('SquareFont.svg#SquareFont') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SquareFont Outline';
+    src: url('SquareFontOutline.eot');
+    src: url('SquareFontOutline.eot?#iefix') format('embedded-opentype'),
+        url('SquareFontOutline.woff2') format('woff2'),
+        url('SquareFontOutline.woff') format('woff'),
+        url('SquareFontOutline.ttf') format('truetype'),
+        url('SquareFontOutline.svg#SquareFontOutline') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
